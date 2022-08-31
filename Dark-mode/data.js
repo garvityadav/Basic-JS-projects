@@ -11,7 +11,7 @@ const articles = [
     title: 'goodby, clean code',
     date: new Date(2019, 10, 22),
     length: 5,
-    snippet: `Biodiesel artisan seitan plaid sriracha copper mug venmo shabby chic. Kickstarter raclette kombucha, yr post-ironic jianbing try-hard flexitarian vaporware normcore.`,
+    snippet: `Bio-diesel artisan seitan plaid sriracha copper mug venmo shabby chic. Kickstarter raclette kombucha, yr post-ironic jianbing try-hard flexitarian vaporware normcore.`,
   },
   {
     id: 3,
